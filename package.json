@@ -1,0 +1,11 @@
+{
+  "name": "him",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Allen-Bayern/him.git",
+  "author": "allen-byn <nobodyplay@yeah.net>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
